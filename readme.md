@@ -8,9 +8,18 @@ This is a developing repo. More features upcoming:
 - MUI integration option
 - Tanstack Query option
 - Mobx or Zustand integration for state management
--
 
-## Note for running locally
+## Quick start
+
+Run directly with npx:
+
+```bash
+npx react_cli_elm_zf5
+```
+
+NPM Package Link: [react_cli_elm_zf5](https://www.npmjs.com/package/react_cli_elm_zf5)
+
+#### Testing locally
 
 - Linking package locally: npm link
 - Creating project locally: react-cli-elm
