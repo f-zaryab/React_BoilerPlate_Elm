@@ -1,10 +1,10 @@
 {
   "name": "react_cli_elm_zf5",
   "description": "A CLI to generate React 19 + Vite projects with pages, router, manual-styles/Tailwind",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "bin": {
-    "react-cli-elm": "./index.js"
+    "react_cli_elm_zf5": "./index.js"
   },
   "type": "module",
   "scripts": {
